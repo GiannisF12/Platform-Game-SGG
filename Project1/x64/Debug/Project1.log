@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  level.cpp
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\level.cpp(188,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\level.cpp(237,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\level.cpp(237,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\level.cpp(258,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\level.cpp(258,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\giann\Desktop\antria_build_game\Project1\bin\Project1.exe

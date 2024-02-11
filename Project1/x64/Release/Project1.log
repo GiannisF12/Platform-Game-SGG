@@ -1,0 +1,24 @@
+﻿  enemy.cpp
+  gameobject.cpp
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\gamestate.h(3,10): error C1083: Cannot open include file: 'sgg/graphics.h': No such file or directory
+  (compiling source file 'enemy.cpp')
+  
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\gamestate.h(3,10): error C1083: Cannot open include file: 'sgg/graphics.h': No such file or directory
+  (compiling source file 'gameobject.cpp')
+  
+  gamestate.cpp
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\gamestate.h(3,10): error C1083: Cannot open include file: 'sgg/graphics.h': No such file or directory
+  (compiling source file 'gamestate.cpp')
+  
+  level.cpp
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\gamestate.h(3,10): error C1083: Cannot open include file: 'sgg/graphics.h': No such file or directory
+  (compiling source file 'level.cpp')
+  
+  main.cpp
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\main.cpp(1,10): error C1083: Cannot open include file: 'sgg/graphics.h': No such file or directory
+  player.cpp
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\gamestate.h(3,10): error C1083: Cannot open include file: 'sgg/graphics.h': No such file or directory
+  (compiling source file 'player.cpp')
+  
+  timer.cpp
+C:\Users\giann\Desktop\antria_build_game\Project1\Project1\timer.cpp(2,10): error C1083: Cannot open include file: 'sgg/graphics.h': No such file or directory
